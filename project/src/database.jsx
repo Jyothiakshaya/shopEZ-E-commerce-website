@@ -4,13 +4,7 @@ export interface MongoDBConfig {
     dbName: string;
   }
   
-  export const mongoConfig: MongoDBConfig = {
-    uri: process.env.MONGODB_URI || 
-         process.env.REACT_APP_MONGODB_URI || 
-         'mongodb+srv://username:password@cluster0.mongodb.net/shopez?retryWrites=true&w=majority',
-    dbName: 'shopez'
-  };
-  
+
   // Connection status checker
   export const checkMongoConnection = async () => {
     try {
