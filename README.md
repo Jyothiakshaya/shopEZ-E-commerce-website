@@ -19,4 +19,5 @@ Backend: Node.js, Express.js
 
 Database: MongoDB Atlas
 
-HERE IS THE DEMO : ▶️ Watch Demo Video
+HERE IS THE DEMO : 
+[▶️ Watch Demo Video](https://github.com/Jyothiakshaya/shopEZ-E-commerce-website/blob/1301fd4a970bf977d7a9c0cfee2f0d16557e82c1/video%20demo/video.mp4)
